@@ -1,4 +1,4 @@
-# 10 - Ejercicio Java
+# 10.1 - Ejercicio Java
 POO, Herencia, Interfaces y Polimorfismo
 
 ## Enunciado
